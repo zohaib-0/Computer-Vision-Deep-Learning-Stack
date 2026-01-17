@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=END%20TO%20END%20COMPUTER%20VISION&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Deep%20TO%20Learning%20COMPUTER%20VISION&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 ---
