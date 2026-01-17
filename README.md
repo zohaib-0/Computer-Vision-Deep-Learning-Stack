@@ -79,6 +79,8 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
 *   **Key Concepts:** Pixel arrays, Channels, Bit-depth, Histograms, EXIF.
 *   **Techniques:** Adaptive Thresholding, Canny Edge Detection, Contours, Morphological Operations.
 *   **Math:** Linear Algebra for Affine Transformations (Scaling, Rotation, Shearing).
+  
+<img width="1239" height="1226" alt="image" src="https://github.com/user-attachments/assets/1bcfec5f-4b35-404f-ae08-de5fc65138c7" />
 
 ### 🔹 Modules 2-4 – Deep Learning & Advanced CNNs
 > *From a single neuron to deep, residual architectures.*
@@ -87,6 +89,9 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
 *   **Architectures:**
     *   **Classic:** LeNet-5, AlexNet, VGG-16.
     *   **Modern:** ResNet (Skip Connections), Inception (Performance), MobileNet (Efficiency).
+      
+<img width="1211" height="1111" alt="image" src="https://github.com/user-attachments/assets/2f19b283-4b28-4d47-aa2a-ccc6f5a6668c" />
+
 
 ### 🔹 Module 5 – Vision Transformers (ViT)
 > *Solving vision tasks with NLP-inspired attention mechanisms.*
