@@ -63,7 +63,7 @@ We utilize a modern, industry-standard stack ensuring your skills are directly t
 
 | Category | Tools & Libraries |
 | :--- | :--- |
-| **Core Processing** | `OpenCV`, `NumPy`, `Pandas`, `Pillow`, `Scikit-Image` |
+| **Core Processing** | `OpenCV`, `NumPy`, `Pandas`, `Pillow`, `Scikit-Image`,`OCR` |
 | **Deep Learning** | `PyTorch` (Primary), `TorchVision`, `TensorFlow/Keras` (Reference), `PyTorch Lightning` |
 | **Detection & Seg** | `Ultralytics YOLO`, `Detectron2`, `MMDetection`, `Segmentation Models Pytorch` |
 | **Tracking** | `DeepSORT`, `ByteTrack`, `OpenCV Tracking API` |
