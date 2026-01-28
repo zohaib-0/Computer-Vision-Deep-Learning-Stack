@@ -48,6 +48,8 @@ This repository serves as a comprehensive **Computer Vision Engineering Stack**,
 
 Whether you are aiming to build autonomous systems, medical imaging diagnostics, or creative AI tools, this stack provides the **SOTA (State-of-the-Art)** architectures and **MLOps** best practices required for success in the AI industry.
 
+<img width="1091" height="597" alt="image" src="https://github.com/user-attachments/assets/f6048d41-ab2a-4685-8b4c-78bdf4793ded" />
+
 <img width="654" height="802" alt="image" src="https://github.com/user-attachments/assets/07c87284-08ac-41ca-a307-fa0a400c99b2" />
 
 ---
